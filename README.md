@@ -46,7 +46,7 @@ Run the following commands in your project directory.
 
 ```shell
 python3 -m venv ethvenv
-source ethenv/bin/activate
+source ethvenv/bin/activate
 docker-compose build # build the docker containers on your computer
 docker-compose up # spin up the docker containers
 ```
