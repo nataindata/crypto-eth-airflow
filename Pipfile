@@ -9,6 +9,3 @@ name = "pypi"
 
 [requires]
 python_version = "3.7"
-
-[scripts]
-test = "bash -c 'PYTHONPATH=. pytest -v tests/test_utils.py -vv'"
